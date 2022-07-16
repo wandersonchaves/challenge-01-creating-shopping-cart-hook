@@ -1,9 +1,9 @@
 <h1 align="center">
-    <img alt="Chav3xShoes" title="#Chav3xShoes" src="./assets/banner.png" />
+    <img alt="Shopping Cart" title="#Shopping Cart" src="./assets/banner.png" />
 </h1>
 
 <h1 align="center">
-   ♻️ <a href="#"> Chav3xShoes </a>
+   ♻️ <a href="#"> Shopping Cart </a>
 </h1>
 
 <h3 align="center">
@@ -57,7 +57,7 @@
 
 ## About
 
-♻️ Chav3xShoes - is an application where your main objective is to create a shopping cart hook.
+♻️ Shopping Cart - is an application where your main objective is to create a shopping cart hook.
 
 ---
 
@@ -117,8 +117,9 @@ The following tools were used in the construction of the project:
 -   **[React Router Dom](https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom)**
 -   **[React Icons](https://react-icons.github.io/react-icons/)**
 -   **[Axios](https://github.com/axios/axios)**
--   **[Express](https://expressjs.com/)**
 -   **[ts-node](https://github.com/TypeStrong/ts-node)**
+-   **[JSON Server](https://github.com/typicode/json-server)**
+-   **[Toastfy](https://fkhadra.github.io/react-toastify/introduction)**
 
 > See the file  [package.json](https://github.com/wandersonchaves/challenge-01-creating-shopping-cart-hook/blob/master/web/package.json)
 

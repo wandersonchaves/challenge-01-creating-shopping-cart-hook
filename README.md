@@ -31,7 +31,7 @@
 </h1>
 
 <h4 align="center"> 
-	🚧  Chav3xShoes ♻️ Concluído 🚀 🚧
+	🚧  Shopping Cart ♻️ Concluído 🚀 🚧
 </h4>
 
 <p align="center">
@@ -48,7 +48,7 @@
 
 ## 💻 Sobre o projeto
 
-♻️ Chav3xShoes - é uma aplicação onde o seu principal objetivo é criar um hook de carrinho de compras.
+♻️ Shopping Cart - é uma aplicação onde o seu principal objetivo é criar um hook de carrinho de compras.
 
 ---
 
@@ -106,8 +106,9 @@ As seguintes ferramentas foram usadas na construção do projeto:
 -   **[React Router Dom](https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom)**
 -   **[React Icons](https://react-icons.github.io/react-icons/)**
 -   **[Axios](https://github.com/axios/axios)**
--   **[Express](https://expressjs.com/)**
 -   **[ts-node](https://github.com/TypeStrong/ts-node)**
+-   **[JSON Server](https://github.com/typicode/json-server)**
+-   **[Toastfy](https://fkhadra.github.io/react-toastify/introduction)**
 
 > Veja o arquivo  [package.json](https://github.com/wandersonchaves/challenge-01-creating-shopping-cart-hook/blob/master/package.json)
 
